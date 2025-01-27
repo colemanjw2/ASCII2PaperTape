@@ -186,7 +186,7 @@ def parse_control_codes(user_text):
         hex_str = match.group(1)  # e.g. '07'
         val = int(hex_str, 16)
         # Check if it's in control range
-        if (0 <= val <= 31) or (val == 127):
+        if 0 <= val <= 255:
             return chr(val)  # Replace with actual control char
         else:
             # Not a recognized control code -> keep original <0xNN>
