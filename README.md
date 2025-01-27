@@ -9,6 +9,15 @@ This tool was made with lasercutting in mind and was created to work with the pr
 
 Paper tape lengths can be taped together at the margins to make infinitely long paper tape programs.
 
+## Project Demo
+
+Check out this demo of the **8-Bit ASCII to Paper Tape Generator** in action!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EPgzjeAySPsD" 
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+
 ---
 
 ## Features
