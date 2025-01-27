@@ -1,6 +1,9 @@
 # 8-Bit ASCII to Paper Tape SVG Generator
 
 ## Overview
+
+![Example Output3](examples/example_output3.png)
+
 This tool converts ASCII text, including control codes, into an **SVG representation** of a 1-inch-wide 8-bit paper tape. The generated SVG can be used to create paper tapes such as those read by vintage microcomputers, like the **Altair 8800**. 
 
 It supports both regular ASCII characters and control codes, making it suitable for creating authentic paper tape outputs for retro computing enthusiasts.
@@ -9,7 +12,7 @@ This tool was made with lasercutting in mind and was created to work with the pr
 
 Paper tape lengths can be taped together at the margins to make infinitely long paper tape programs.
 
-Graphical User Interface:
+**Graphical User Interface:**
 
 ![Example Output2](examples/example_output2.png)
 
