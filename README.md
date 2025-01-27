@@ -13,9 +13,8 @@ Paper tape lengths can be taped together at the margins to make infinitely long 
 
 Check out this demo of the **8-Bit ASCII to Paper Tape Generator** in action!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EPgzjeAySPsD" 
-frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[Watch the demo on YouTube](https://www.youtube.com/watch?v=EPgzjeAySPs)
+
 
 
 ---
